@@ -1,6 +1,7 @@
 # Site
 repository: rnrudejr9/rnrudejr9.github.io
-favicon: images/favicon_dog.png
+favicon: /images/favicon_dog.png 
+  <html><link rel="icon" type="image/png" sizes="32x32" href="/favicon_dog.png"></html>
 
 # Content configuration version
 version: 2
