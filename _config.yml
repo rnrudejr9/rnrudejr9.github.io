@@ -29,6 +29,9 @@ additional_links:
 - title: blog
   icon: fas fa-globe
   url: https://koopi.tistory.com/
+- title: blog
+  icon: fas fa-globe
+  url: https://rnrudejr9/rnrudejr9.github.io/_posts/2022-12-14-title.md
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -38,6 +41,8 @@ additional_links:
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
+
+
 
 # About Section
 # about_title: About Me
