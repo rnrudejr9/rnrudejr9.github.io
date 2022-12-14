@@ -42,7 +42,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요! 반갑습니다!
   이건 강조하는 기능 <mark>AWS</mark> 그리고 <mark>Eating Pizza</mark>
