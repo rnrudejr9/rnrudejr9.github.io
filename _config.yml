@@ -69,37 +69,56 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          전국병원조회서비스
+          전국 병원 조회 서비스
         description: | # this will include new lines to allow paragraphs
-          SpringBoot
+          - 사용 기술 : <mark>Spring Boot</mark> <mark>MySQL</mark> <mark>AWS</mark> <mark>Docker</mark> 
+          - 프로젝트 기간 : 2022.10.24~2022.11.25
+          - 대량의 데이터 처리 및 JPA 활용 예제
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 멋쟁이사자처럼
-        link: https://techit.education/
-        # link_text: boringcompany.com
-        sub_title: 백엔드 스쿨 2기
-        caption: 2022.09 ~ 2023.02
+    content2:
+      - layout: top-middle
+        title: Musta SNS
+        link: https://gitlab.com/rnrudejr9/mustasns
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://gitlab.com/rnrudejr9/mustasns
         quote: >
-          강사님과 함께하는 재밌고 훌륭한 수업!
+          로그인/회원가입, 게시글 CRUD, 댓글, 좋아요, 알림, 권한 기능이 있는 RESTAPI 구현 프로젝트
         description: | # this will include new lines to allow paragraphs
-            강사님의 유머러스함은 추가로!
+          - 사용 기술 : <mark>Spring Boot</mark> <mark>Spring Security</mark> <mark>AWS</mark> <mark>GitLab</mark> <mark>Docker</mark>   
+          - 프로젝트 기간 : 2022.12.20~2022.12.27
+          - 요구명세서에 따른 RESTAPI 설계 및 구현
+          - GitLab 활용한 CI/CD 파이프라인 구축 및 AWS/Docker 자동배포 설정
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: 멋쟁이사자처럼 백엔드 스쿨 2기
+        caption: 2022.09 - 2023.02
+        sub_title: 멋쟁이사자처럼
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          - SpringBoot 심화 및 다양한 개인/팀 프로젝트 경험
+          - 
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 자격증
+        # link_text: boringcompany.com
+        sub_title: 한국인력산업공단
+        description: | # this will include new lines to allow paragraphs
+          - 정보처리기사 ( 날짜 )
+    content2:
+      - layout: left
+        title: 학군 58기
+        sub_title: ROTC
+        description: | # this will include new lines to allow paragraphs
+          - 육군 제3보병사단 정보통신대대 근무 ( 2020.03 - 2022.06 )
 
   - title: A Little More About Me
     layout: text
