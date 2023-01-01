@@ -8,7 +8,7 @@ version: 2
 
 # Personal info
 name: KOOPI
-title: 취업하고싶어요
+title: 백엔드 개발자
 email: rnrudejr9@gmail.com
 website: https://koopi.tistory.com/
 # Dark Mode (true/false/never)
@@ -74,8 +74,6 @@ content:
           - 사용 기술 : <mark>Spring Boot</mark> <mark>MySQL</mark> <mark>AWS</mark> <mark>Docker</mark> 
           - 프로젝트 기간 : 2022.10.24~2022.11.25
           - 대량의 데이터 처리 및 JPA 활용 예제
-
-    content2:
       - layout: top-middle
         title: Musta SNS
         link: https://gitlab.com/rnrudejr9/mustasns
@@ -113,7 +111,6 @@ content:
         sub_title: 한국인력산업공단
         description: | # this will include new lines to allow paragraphs
           - 정보처리기사 ( 날짜 )
-    content2:
       - layout: left
         title: 학군 58기
         sub_title: ROTC
